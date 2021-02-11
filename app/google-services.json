@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460328764151",
+    "project_id": "cxrili",
+    "storage_bucket": "cxrili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460328764151:android:6cd87289e657b8791d49f2",
+        "android_client_info": {
+          "package_name": "com.example.cxrili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460328764151-sfqo1e5q2fhjlihi9q619p6lqlokn1bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvpTnEbEpPwdB3dYDm3X1rc99LElS7xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460328764151-sfqo1e5q2fhjlihi9q619p6lqlokn1bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

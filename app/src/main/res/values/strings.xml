@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cxrili</string>
+    <string name="Email">შეიყვანეთ ელ-ფოსტა</string>
+    <string name="CxriliView">ცხრილი</string>
+    <string name="RegistrationBtn">რეგისტრაცია</string>
+    <string name="LoginBTn">შესვლა</string>
+    <string name="registartionView">რეგისტრაციის გვერდი</string>
+    <string name="Password1">პაროლი</string>
+    <string name="OnGoBackBtn">უკან დაბრუნება</string>
+    <string name="EnterBtn2">ავტორიზაცია</string>
+    <string name="EnterBtn">შესვლა</string>
+    <string name="GoBackBtn">უკან დაბრუნება</string>
+    <string name="EmailView">ელ-ფოსტა</string>
+    <string name="Password">პაროლი</string>
+    <string name="logintextView">ლოგინის გვერდი</string>
+    <string name="ProjectName">ცხრილი</string>
+    <string name="JgufisWevrebi">ჯგუფის წევრები:გოჩა გოჩაშვილი, ავთო სტურუა.</string>
+
+
+</resources>
